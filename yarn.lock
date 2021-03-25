@@ -9647,10 +9647,10 @@ number-is-nan@^1.0.0:
   resolved "https://registry.yarnpkg.com/number-is-nan/-/number-is-nan-1.0.1.tgz#097b602b53422a522c1afb8790318336941a011d"
   integrity sha1-CXtgK1NCKlIsGvuHkDGDNpQaAR0=
 
-nuxt-i18n@^6.21.1:
-  version "6.21.1"
-  resolved "https://registry.yarnpkg.com/nuxt-i18n/-/nuxt-i18n-6.21.1.tgz#a69d581a870b8eac1d5b2f8812b92a41fbe29708"
-  integrity sha512-zjqqUMJgIDDxrJDO5Ot3s8F1y71A4otTyGyf/RmQHptfY1HpvqwFx8087p5vUOI9XoRsGHSYB4n4wcMxurw+qA==
+nuxt-i18n@^6.22.0:
+  version "6.22.0"
+  resolved "https://registry.yarnpkg.com/nuxt-i18n/-/nuxt-i18n-6.22.0.tgz#7f4cfd3536abc2bac3c0dec3dd0daf28c0dbb56c"
+  integrity sha512-snJxnPsRWE4Vc97tfE4w4l7LvAMyfrtfdTVPRglScq+vTLPBHVixVM9SUHsNUOyeTgrq7dIe7bEKyU7KW7miYg==
   dependencies:
     "@babel/parser" "^7.5.5"
     "@babel/traverse" "^7.5.5"
@@ -9660,6 +9660,7 @@ nuxt-i18n@^6.21.1:
     is-https "^3.0.0"
     js-cookie "^2.2.1"
     klona "^2.0.4"
+    ufo "^0.6.7"
     vue-i18n "^8.23.0"
 
 nuxt-vite@^0.0.36:
@@ -13411,7 +13412,7 @@ ua-parser-js@^0.7.24:
   resolved "https://registry.yarnpkg.com/ua-parser-js/-/ua-parser-js-0.7.24.tgz#8d3ecea46ed4f1f1d63ec25f17d8568105dc027c"
   integrity sha512-yo+miGzQx5gakzVK3QFfN0/L9uVhosXBBO7qmnk7c2iw1IhL212wfA3zbnI54B0obGwC/5NWub/iT9sReMx+Fw==
 
-ufo@^0.6.1, ufo@^0.6.10, ufo@^0.6.6:
+ufo@^0.6.1, ufo@^0.6.10, ufo@^0.6.6, ufo@^0.6.7:
   version "0.6.10"
   resolved "https://registry.yarnpkg.com/ufo/-/ufo-0.6.10.tgz#c7ace9b8f72cb08c35e3a8c8edc76f062fbaa7d0"
   integrity sha512-sMbJnrBcKKsbVyr6++hb0n9lCmrMqkJrNnJIOJ3sckeqY6NMfAULcRGbBWcASSnN1HDV3YqiGCPzi9RVs511bw==
