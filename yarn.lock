@@ -1745,16 +1745,16 @@
     consola "^2.15.3"
     defu "^3.2.2"
 
-"@nuxtjs/composition-api@^0.22.4":
-  version "0.22.4"
-  resolved "https://registry.yarnpkg.com/@nuxtjs/composition-api/-/composition-api-0.22.4.tgz#e53db8a992aa79100baa292429c51ea6c58e749a"
-  integrity sha512-JJwcyhVMCxjClogQjteFJ5hN+FeR0oLkzaBATpikV34woZ9/gzUuIxPzvOzq2hmjYty5qNGqZM+B3668R8Jwvw==
+"@nuxtjs/composition-api@^0.23.0":
+  version "0.23.0"
+  resolved "https://registry.yarnpkg.com/@nuxtjs/composition-api/-/composition-api-0.23.0.tgz#18596594ce45d69c0db4c3a68658b2f1229909fd"
+  integrity sha512-E2N2iDUabGYiCCclj8s/eiQgPTaJEnmV0YzrNucnPRfJEdmjigGx76RF+fEEboBMqltC41AyooBzBLbCjB7FqQ==
   dependencies:
-    "@vue/composition-api" "1.0.0-rc.5"
+    "@vue/composition-api" "1.0.0-rc.6"
     defu "^3.2.2"
     estree-walker "^2.0.2"
     magic-string "^0.25.7"
-    ufo "^0.6.10"
+    ufo "^0.6.11"
     upath "^2.0.1"
 
 "@nuxtjs/eslint-config-typescript@^6.0.0":
@@ -2519,14 +2519,7 @@
   optionalDependencies:
     prettier "^1.18.2"
 
-"@vue/composition-api@1.0.0-rc.5":
-  version "1.0.0-rc.5"
-  resolved "https://registry.yarnpkg.com/@vue/composition-api/-/composition-api-1.0.0-rc.5.tgz#9b857743dd2692073b6df90fa2cfb9a75a1bb2f6"
-  integrity sha512-sFBUDZxwi5YOQqH//VSGenO6WH0JuW94+CWo1eUsGSTRue8POfwD4oeduVqi/c6QcwXg2tJL/m6aOD2t/IR6zg==
-  dependencies:
-    tslib "^2.1.0"
-
-"@vue/composition-api@^1.0.0-rc.6":
+"@vue/composition-api@1.0.0-rc.6", "@vue/composition-api@^1.0.0-rc.6":
   version "1.0.0-rc.6"
   resolved "https://registry.yarnpkg.com/@vue/composition-api/-/composition-api-1.0.0-rc.6.tgz#21ce2c169dd4ff17a5bf60c6e98863dff1a36540"
   integrity sha512-M3jsyDBozQFqAPYdM4GCoVZEljIHsTVdcq5fZx9axpKz9ChIlQngxNf1ziLVaJvWX7T+MO1rVTEx6Xjgg/gUcQ==
