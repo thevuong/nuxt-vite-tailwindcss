@@ -24,7 +24,7 @@
     "core-js": "^3.10.1",
     "express": "^4.17.1",
     "nuxt": "^2.15.4",
-    "nuxt-i18n": "^6.24.0"
+    "nuxt-i18n": "^6.25.0"
   },
   "devDependencies": {
     "@commitlint/cli": "^12.1.1",
