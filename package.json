@@ -52,7 +52,7 @@
     "husky": "^6.0.0",
     "jest": "^26.6.3",
     "lint-staged": "^10.5.4",
-    "nuxt-vite": "^0.0.36",
+    "nuxt-vite": "^0.0.37",
     "postcss": "^8.2.10",
     "prettier": "^2.2.1",
     "stylelint": "^13.12.0",
