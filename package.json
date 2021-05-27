@@ -54,7 +54,7 @@
     "jest": "^26.6.3",
     "lint-staged": "^11.0.0",
     "nuxt-vite": "^0.0.37",
-    "postcss": "^8.2.14",
+    "postcss": "^8.3.0",
     "prettier": "^2.3.0",
     "stylelint": "^13.13.1",
     "stylelint-config-prettier": "^8.0.2",
