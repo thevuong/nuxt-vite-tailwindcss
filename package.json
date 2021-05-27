@@ -28,7 +28,7 @@
   },
   "devDependencies": {
     "@commitlint/cli": "^12.1.1",
-    "@commitlint/config-conventional": "^12.1.1",
+    "@commitlint/config-conventional": "^12.1.4",
     "@nuxt/image": "^0.4.8",
     "@nuxt/types": "^2.15.6",
     "@nuxt/typescript-build": "^2.1.0",
