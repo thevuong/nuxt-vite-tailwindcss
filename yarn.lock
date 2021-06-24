@@ -1506,10 +1506,10 @@
     node-fetch "^2.6.1"
     web-streams-polyfill "^3.0.1"
 
-"@nuxt/image@^0.4.7":
-  version "0.4.11"
-  resolved "https://registry.yarnpkg.com/@nuxt/image/-/image-0.4.11.tgz#b2f051003e41f9af8e9b7421858bfeb97391a6e4"
-  integrity sha512-tCsxqdQEIYlTq8XSWgpBAKAa9c2djuUUOtaLqpTsjlT5mFN8itOttrISoUot+tStuA1QLE/PB8hrJNETd9KvpQ==
+"@nuxt/image@^0.4.17":
+  version "0.4.17"
+  resolved "https://registry.yarnpkg.com/@nuxt/image/-/image-0.4.17.tgz#35eaf2de4c475839e9c7f12029510c2252998839"
+  integrity sha512-5eOGIpNHqugq0nKZzSM5BsYew9Akbx9RjIZdajxRU9J2CU//E43QY+fZh2BUCPQZkUYJWcDWo8qYexJyQzdMWg==
   dependencies:
     consola "^2.15.3"
     defu "^5.0.0"
@@ -1521,7 +1521,9 @@
     lru-cache "^6.0.0"
     node-fetch "^2.6.1"
     p-limit "^3.1.0"
+    rc9 "^1.2.0"
     requrl "^3.0.2"
+    semver "^7.3.5"
     ufo "^0.7.5"
     upath "^2.0.1"
 
